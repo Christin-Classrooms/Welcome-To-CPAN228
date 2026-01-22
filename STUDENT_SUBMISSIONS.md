@@ -13,9 +13,9 @@ Welcome! Add your name and section here when you complete Lab 0.
 
 ## Student Roster
 
-| # | Name | Student ID | GitHub Username | Lab 0 Complete |
-|---|---|---|---|---|
-| 0 | Christin, Mugisha |  [Student ID] | @github-username | [ ] Not Started |
+| # | Name | Student ID | GitHub Username | Group Name |Lab 0 Complete | 
+|---|---|---|---|---|---|
+| 0 | Christin, Mugisha |  [Student ID] | @github-username ||[Groupname]| [ ] Not Started |
 | 1 | Aamir, Zainab B. | [Student ID] | @github-username | [ ] Not Started |
 | 2 | Abdirahman, Arwa | [Student ID] | @github-username | [ ] Not Started |
 | 3 | Aharon, Ben | [Student ID] | @github-username | [ ] Not Started |
