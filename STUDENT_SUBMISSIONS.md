@@ -13,9 +13,9 @@ Welcome! Add your name and section here when you complete Lab 0.
 
 ## Student Roster
 
-| # | Name | Student ID | Section | GitHub Username | Lab 0 Complete | PR Link |
-|---|------|------------|---------|-----------------|----------------|---------|
-| 0 | [Add Your Name] | [Student ID] | [Section] | @github-username | [ ] Not Started | - |
+| # | Name | Student ID  | GitHub Username | Lab 0 Complete | 
+|---|------|------------|-----------------|----------------|
+| 0 | [Add Your Name] | [Student ID] | @github-username | [ ] Not Started | 
 
 ---
 
