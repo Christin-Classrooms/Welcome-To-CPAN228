@@ -45,7 +45,7 @@ Edit the student roster table and add your information:
 4. Add your Humber email (format: firstname.lastname@humber.ca or n01233456789@humber.ca)
 5. Mark Lab 0 as complete with ✅
 6. Add your Group Name (or leave blank if not assigned yet)
-7. If you don't have a group yet go on github to join one
+7. If you don't have a group yet go on Blackboard and join one
 
 ### Step 4: Commit Your Changes
 
