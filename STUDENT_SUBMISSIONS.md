@@ -19,23 +19,7 @@ Welcome! Add your name and section here when you complete Lab 0.
 
 ---
 
-## How to Add Yourself
-
-### Step 1: Edit This File
-Click the pencil ✏️ icon to edit, or do it locally:
-```bash
-# In your feature branch
-# Open STUDENT_SUBMISSIONS.md
-# Copy line 35 and add your information in the same format
-# add an emoji in front of Completed '[]'
-# add your pr link
-
 ```
-
-
-
-
-
 
 ## Notes
 
