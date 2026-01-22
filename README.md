@@ -1,4 +1,4 @@
-# Welcome to CPAN-252 🎓
+# Welcome to CPAN-228 🎓
 ## Web Application Development for CPAN Diploma
 ### Lab 0: GitHub Fundamentals + Spring Dependency Injection
 
