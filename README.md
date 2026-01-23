@@ -9,14 +9,12 @@
 Welcome! This is your **Lab 0 starter repository** for CPAN-228. Here you'll learn:
 - How to use GitHub and Git professionally
 - How to submit your work via Pull Requests
-- Spring Boot fundamentals (Dependency Injection, IoC Container)
 
 By the end of Lab 0, you'll have:
 - ✅ Created your first GitHub pull request for the class
 
 **Time Estimate:** 15 min
 **Difficulty:** Beginner (first time? follow step-by-step!)
-
 
 ---
 ## 📋 Lab 0 Overview
