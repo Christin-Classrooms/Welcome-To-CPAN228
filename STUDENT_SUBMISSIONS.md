@@ -108,7 +108,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 | # | Name | Student ID | GitHub Username | Humber Email | Lab 0 Complete | Group Name |
 |---|---|---|---|---|---|---|
-| 0 | Christin, Mugisha | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 0 | Christin, Mugisha | [N0123456789] | @Mugisha5 | N0123456789 | [ 🔥 ] Complete | Semicolon |
 | 1 | Aamir, Zainab B. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 2 | Abdirahman, Arwa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 3 | Aharon, Ben | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
