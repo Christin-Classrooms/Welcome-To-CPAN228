@@ -113,7 +113,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 2 | Abdirahman, Arwa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 3 | Aharon, Ben | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 4 | Akinola, Oluwaseun | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 5 | Arif, Fahad | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 5 | Arif, Fahad | n01729165 | MuiLuigi | n01729165@humber.ca | Completed | Star Mode Studios |
 | 6 | Auckloo, Veevek | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 7 | Augustine, Kerlan G. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 8 | Baptiste, Carl | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
