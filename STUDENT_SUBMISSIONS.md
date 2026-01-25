@@ -166,7 +166,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 50 | Phillips, Ashton F. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 51 | Powell, Othniel M. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 52 | Pushparajah, Krishna | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 53 | Ragoonanan, Anupa R. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 53 | Ragoonanan, Anupa R. | N01423202 | @aM3dia | n01423202@humbermail.ca | ✅ Lab 0 Complete | The 404s |
 | 54 | Rahim, Ahmed | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 55 | Sahota, Kuldip S. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 56 | Sampaga, Ralph Vincent C. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
