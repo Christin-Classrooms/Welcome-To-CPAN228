@@ -151,7 +151,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 35 | LeCraw, Darryl | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 36 | Lee, Tyler | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 37 | Leung, Clarance | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 38 | Ly, Tyler | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 38 | Ly, Tyler | [N01725055] | @Shorts71 | [n01725055@humber.ca] | [✅] Completed | [TSAS] |
 | 39 | Masur Jayatheertha, Abhishek | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 40 | Mchedlishvili, Ilia | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 41 | Mpesha, Julila M. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
