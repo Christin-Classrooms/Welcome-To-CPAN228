@@ -159,7 +159,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 43 | Nahas, Joseph | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 44 | Newman, Michael R. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 45 | Nguyen, Annie N. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 46 | Nguyen, Nha Ngoc Jenny N. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 46 | Nguyen, Nha Ngoc Jenny N. | [N01439814] | @Jneyugn | [n01439814@humber.ca] | [x] Completed | [The 404s] |
 | 47 | Park, Noah H. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 48 | Patel, Raj | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 49 | Peralta, Divine | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
