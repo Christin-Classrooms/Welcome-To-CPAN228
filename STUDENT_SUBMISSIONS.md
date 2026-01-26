@@ -188,5 +188,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 72 | Attia, Alaa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 73 | Gurung, Bimal | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 74 | Soor, Sahib S.| [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 75 | Leung, Clarance | N01742752 | @gkn-mn | n01742752@humber.ca | [ ✅ ] Completed | [Group 7] |
 
 
