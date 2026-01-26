@@ -145,7 +145,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 29 | Hunyinbo, Mauwanu Thankgod | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 30 | Jama, Musa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 31 | Joseph, Harry | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 32 | Kehal, Davinder S. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 32 | Kehal, Davinder S. | [N01718686] | @Davinderkehal | [N01718686@humber.ca] | [x] Completed | [Group 2] |
 | 33 | Khalil, Jamil | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 34 | Khan, Maheen | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 35 | LeCraw, Darryl | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
