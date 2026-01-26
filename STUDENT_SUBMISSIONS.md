@@ -183,7 +183,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 67 | Tolentino, Andre | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 68 | Tsegay, Abel | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 69 | Ustaoglu, Neslihan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 70 | Wang, Xia | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 70 | Wang, Xia | [N01721277] | @danielxw88 | [n01721277@humber.ca] | [ ✅ Completed]| [Group 24] |
 | 71 | Abdullahi, Harith | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 72 | Attia, Alaa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 73 | Gurung, Bimal | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
