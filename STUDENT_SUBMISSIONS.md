@@ -127,7 +127,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 11 | Bourgeois, Brayden | [N01708893] | @Braydenb1204 | [n01708893@humber.ca] | [x] Completed | [No Group Yet] |
 | 12 | Carreiro, Nicholas | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 13 | Cheema, Ahmad | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 14 | Cobb, Edgar | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 14 | Cobb, Edgar | [n01726806] | @r0ry64 | [n01726806@humber.ca] | [✅] Completed | [New Group 14] |
 | 15 | Crosse, Geoffrey | [n01758501] | @github-gcrosse | [n01758501@humber.ca] | ✅ Completed | [New Group 12] |
 | 16 | Darras, Mohammed | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 17 | Farah, Maryan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
