@@ -120,8 +120,8 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 4 | Akinola, Oluwaseun | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 5 | Arif, Fahad | n01729165 | MuiLuigi | n01729165@humber.ca | Completed | Star Mode Studios |
 | 6 | Auckloo, Veevek | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 7 | Augustine, Kerlan G. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 8 | Baptiste, Carl | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 7 | Augustine, Kerlan G. | n01375372 | KerlanHumber | n01375372@humber.ca | [ ] Not Started | [GroupName] |
+| 8 | Baptiste, Carl | [Student ID] | @github-username | [Humber Email] | [✅] Completed | Northpoint |
 | 9 | Basit, Abdul | [N01381962] | @github-bkbasit73 | [bkbasit73@gmail.com] | [ ] Complete | [Group 02] |
 | 10 | Bazhutina, Iuliia | [N01721686] | @IuliiaBazhutina | [n01721686@humber.ca] | [✅] Completed | [404 Found] |
 | 11 | Bourgeois, Brayden | [N01708893] | @Braydenb1204 | [n01708893@humber.ca] | [x] Completed | [No Group Yet] |
