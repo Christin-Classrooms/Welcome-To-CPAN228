@@ -140,7 +140,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 24 | Hamm, Steven | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 25 | Harrak, Nour | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 26 | Hernandez, Gabriel | [N01724716] | @PapisCode | [n01724716@humber.ca] | [x] Completed | [No Group Yet] |
-| 27 | Hossain, Mushfika | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 27 | Hossain, Mushfika | [N01700086] | @mushfikahossain | [n01700086@humber.ca] | [✅] Completed | [Not Yet Decided] |
 | 28 | Hunyinbo, Kayle K. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 29 | Hunyinbo, Mauwanu Thankgod | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 30 | Jama, Musa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
