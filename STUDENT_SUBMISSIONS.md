@@ -158,7 +158,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 42 | Mukhtar, Lena | [N00639928] | @Lena-coder1 | [n00639928@humber.ca] | [✅ ] Completed | [The 404s] |
 | 43 | Nahas, Joseph | [N01111405] | @JosephNahas | [n01111405@humber.ca] | [✅] Completed | [The 404s] |
 | 44 | Newman, Michael R. | [N01586930] | @NewMicRob | [n01586930@humber.ca] | [🙃] Completed | [404 Found] |
-| 45 | Nguyen, Annie N. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 45 | Nguyen, Annie N. | [N01390131] | @nagooyenn | [n01390131@humber.com] | [✅] Completed | [The 404s] |
 | 46 | Nguyen, Nha Ngoc Jenny N. | [N01439814] | @Jneyugn | [n01439814@humber.ca] | [x] Completed | [The 404s] |
 | 47 | Park, Noah H. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 48 | Patel, Raj | [N01715368] | @RajPatel514 | [n01715368@humber.ca] | [✅] Completed | [Group 15] |
