@@ -143,7 +143,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 27 | Hossain, Mushfika | [N01700086] | @mushfikahossain | [n01700086@humber.ca] | [✅] Completed | [Not Yet Decided] |
 | 28 | Hunyinbo, Kayle K. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 29 | Hunyinbo, Mauwanu Thankgod | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 30 | Jama, Musa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 30 | Jama, Musa | [N01709704] | @Musa-jama | [N01709704@humber.ca] | [👋] Completed | [Star Mode Studios] |
 | 31 | Joseph, Harry | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 32 | Kehal, Davinder S. | [N01718686] | @Davinderkehal | [N01718686@humber.ca] | [x] Completed | [Group 2] |
 | 33 | Khalil, Jamil | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
