@@ -173,7 +173,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 56 | Sampaga, Ralph Vincent C. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 57 | Samsun, . | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 58 | Sanders, Jasmine | N01747318 | @Jaysandjay | n01747318@humber.ca | [🔥] Complete | Group 7 |
-| 59 | Sharma, Aakarshan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 59 | Sharma, Aakarshan | [n01725106] | @Aakarshan17 | [n01725106@humber.ca] | [✅] Completed | [Not Decided yet] |
 | 60 | Sharma, Karn | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 61 | Starovoitov, Steven | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 62 | Tariq, Aneesa | [n01745842] | @Aneesa2004 | [n01745842@humber.ca] | [✅] Completed | [TSAS] |
