@@ -170,7 +170,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 53 | Ragoonanan, Anupa R. | N01423202 | @aM3dia | n01423202@humbermail.ca | ✅ Lab 0 Complete | The 404s |
 | 54 | Rahim, Ahmed | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 55 | Sahota, Kuldip S. | [N01695125] | @Kuldip-Sahota | [n01695125@humber.ca] | [ ] ✅ Completed | [Group 14] |
-| 56 | Sampaga, Ralph Vincent C. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 56 | Sampaga, Ralph Vincent C. | [N01204813] | @ralphvincent905 | [n01204813@humber.ca] | [✅] Lab 0 Complete | [Group 9 (Name TBA)] |
 | 57 | Samsun, . | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 58 | Sanders, Jasmine | N01747318 | @Jaysandjay | n01747318@humber.ca | [🔥] Complete | Group 7 |
 | 59 | Sharma, Aakarshan | [n01725106] | @Aakarshan17 | [n01725106@humber.ca] | [✅] Completed | [Not Decided yet] |
