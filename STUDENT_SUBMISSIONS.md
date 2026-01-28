@@ -152,7 +152,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 36 | Lee, Tyler | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 37 | Leung, Clarance | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 38 | Ly, Tyler | [N01725055] | @Shorts71 | [n01725055@humber.ca] | [✅] Completed | [TSAS] |
-| 39 | Masur Jayatheertha, Abhishek | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 39 | Masur Jayatheertha, Abhishek | [N01697721] | @abhishake2323 | [n01697721@students.humber.ca] | [✅] Completed | [Star Mode Studios] |
 | 40 | Mchedlishvili, Ilia | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 41 | Mpesha, Julila M. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 42 | Mukhtar, Lena | [N00639928] | @Lena-coder1 | [n00639928@humber.ca] | [✅ ] Completed | [The 404s] |
