@@ -148,7 +148,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 32 | Kehal, Davinder S. | [N01718686] | @Davinderkehal | [N01718686@humber.ca] | [x] Completed | [Group 2] |
 | 33 | Khalil, Jamil | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 34 | Khan, Maheen | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 35 | LeCraw, Darryl | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 35 | LeCraw, Darryl | [N01712877] | @BossClaw | [n01712877@students.humber.ca] | [🤘] Rocked! | Group 7 |
 | 36 | Lee, Tyler | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 37 | Leung, Clarance | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 38 | Ly, Tyler | [N01725055] | @Shorts71 | [n01725055@humber.ca] | [✅] Completed | [TSAS] |
