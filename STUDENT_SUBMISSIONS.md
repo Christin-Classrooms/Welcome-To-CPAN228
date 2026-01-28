@@ -174,7 +174,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 58 | Sanders, Jasmine | N01747318 | @Jaysandjay | n01747318@humber.ca | [🔥] Complete | Group 7 |
 | 59 | Sharma, Aakarshan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 60 | Sharma, Karn | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 61 | Starovoitov, Steven | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 61 | Starovoitov, Steven | N01363509 | @SteveStar | N01363509@humber.ca | [✅] Completed | Group 9 (Name TBA) |
 | 62 | Tariq, Aneesa | [n01745842] | @Aneesa2004 | [n01745842@humber.ca] | [✅] Completed | [TSAS] |
 | 63 | Teibo, Lana | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 64 | Tekin, Berra | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
