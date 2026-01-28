@@ -114,7 +114,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | # | Name | Student ID | GitHub Username | Humber Email | Lab 0 Complete | Group Name |
 |---|---|---|---|---|---|---|
 | 0 | Christin, Mugisha | [N0123456789] | @Mugisha5 | N0123456789 | [ 🔥 ] Complete | Semicolon |
-| 1 | Aamir, Zainab B. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 1 | Aamir, Zainab B. | [n01513753] | @NiqabiPrincess | [n01513753@humber.ca] |[🍄✅ ] Completed | [Northpoint] |
 | 2 | Abdirahman, Arwa | N01709742 | @Arwa-sectionD | N01709742@humber.ca | Completed | Northpoint |
 | 3 | Aharon, Ben | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 4 | Akinola, Oluwaseun | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
