@@ -41,12 +41,12 @@ git checkout -b firstname-lastname
 
 Edit the student roster table and add your information:
 
-1. Add your name in the same format as the first entry (Last Name, First Name)
-2. Fill in your Student ID
-3. Add your GitHub username (your @handle, e.g., @username)
-4. Add your Humber email (format: firstname.lastname@humber.ca or n01233456789@humber.ca)
-5. Mark Lab 0 as complete with ✅
-6. Add your Group Name (or leave blank if not assigned yet)
+1. Hunyinbo, Kayle
+2. N01587541
+3. @KayKay-H
+4. n01587541@humber.ca
+5. ✅
+6. Group 12
 7. If you don't have a group yet go on Blackboard and join one
 
 ### Step 4: Commit Your Changes
