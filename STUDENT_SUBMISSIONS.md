@@ -137,7 +137,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 21 | Greville, Dustin | [n01368883] | @dustingreville | [n01368883@humber.ca] | [✅] Completed | [GroupName] |
 | 22 | Grover, Ramanpreet S. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 23 | Hailu, Beniam | [n01588356] | @HailuBen | [n01588356@humber.ca] | [🐱‍👤] Completed | [AHB Team / New Group 19] |
-| 24 | Hamm, Steven | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 24 | Hamm, Steven | [N00678493] | @RadHamm | [hmms0070@humber.ca] | [💻👌 ] Not Started | [Northpoint] |
 | 25 | Harrak, Nour | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 26 | Hernandez, Gabriel | [N01724716] | @PapisCode | [n01724716@humber.ca] | [x] Completed | [No Group Yet] |
 | 27 | Hossain, Mushfika | [N01700086] | @mushfikahossain | [n01700086@humber.ca] | [✅] Completed | [Not Yet Decided] |
