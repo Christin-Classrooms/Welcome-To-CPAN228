@@ -179,7 +179,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 62 | Tariq, Aneesa | [n01745842] | @Aneesa2004 | [n01745842@humber.ca] | [✅] Completed | [TSAS] |
 | 63 | Teibo, Lana | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 64 | Tekin, Berra | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 65 | Thavarasa, Sajan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 65 | Thavarasa, Sajan | [N01715615] | @SajanT26| [n01715615@humber.ca] | [👌] Completed | [TSAS] |
 | 66 | Tigse-Pena, Lynneth | [N01424240] | @LynnethTigsePena4240 | [n01424240@humber.ca] | [🦥] completed | [The 404s] |
 | 67 | Tolentino, Andre | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 68 | Tsegay, Abel | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
