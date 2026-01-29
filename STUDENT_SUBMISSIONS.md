@@ -174,7 +174,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 63 | Teibo, Lana | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 64 | Tekin, Berra | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 65 | Thavarasa, Sajan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 66 | Tigse-Pena, Lynneth | [N01424240] | @LynnethTigsePena4240 | [n01424240@humber.ca] | [🦥] completed | [The 404s] |
+| 66 | Tigse-Pena, Lynneth | [N01424240] | @LynnethTigsePena4240 | [n01424240@humber.ca] | [🦥] completed | [Four-Loop] |
 | 67 | Tolentino, Andre | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 68 | Tsegay, Abel | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 69 | Ustaoglu, Neslihan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
