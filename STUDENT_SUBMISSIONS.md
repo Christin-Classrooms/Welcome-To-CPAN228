@@ -135,7 +135,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 19 | Figueroa, Trish | [n01724664] | @trix-04 | [n01724664@humber.ca] | [🐆] Completed | [Group 22] |
 | 20 | Friesen, Abby | [n01719981] | @raeoffrost | [n01719981@humber.ca] | [😼] Completed | [404 Found] |
 | 21 | Greville, Dustin | [n01368883] | @dustingreville | [n01368883@humber.ca] | [✅] Completed | [GroupName] |
-| 22 | Grover, Ramanpreet S. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 22 | Grover, Ramanpreet S. | [N01698437] | @RamanpreetGrover | [n01698437@humber.ca] |[☑️] Completed | [CodeCrew] |
 | 23 | Hailu, Beniam | [n01588356] | @HailuBen | [n01588356@humber.ca] | [🐱‍👤] Completed | [AHB Team / New Group 19] |
 | 24 | Hamm, Steven | [N00678493] | @RadHamm | [hmms0070@humber.ca] | [💻👌 ] Not Started | [Northpoint] |
 | 25 | Harrak, Nour | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
