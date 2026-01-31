@@ -121,7 +121,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 5 | Arif, Fahad | n01729165 | MuiLuigi | n01729165@humber.ca | Completed | Star Mode Studios |
 | 6 | Auckloo, Veevek | [N01314187] | @Aviish11 | [n01314187@humber.ca] | [🥶] Completed | [Group 24] |
 | 7 | Augustine, Kerlan G. | n01375372 | KerlanHumber | n01375372@humber.ca | [✅] Completed | Northpoint |
-| 8 | Baptiste, Carl | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 8 | Baptiste, Carl | [N01685318] | @Cxrlo19 | [n01685318@humber.ca] | [✅] Completed | [TBD] |
 | 9 | Basit, Abdul | [N01381962] | @github-bkbasit73 | [bkbasit73@gmail.com] | [ ] Complete | [Group 02] |
 | 10 | Bazhutina, Iuliia | [N01721686] | @IuliiaBazhutina | [n01721686@humber.ca] | [✅] Completed | [404 Found] |
 | 11 | Bourgeois, Brayden | [N01708893] | @Braydenb1204 | [n01708893@humber.ca] | [x] Completed | [No Group Yet] |
@@ -135,13 +135,13 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 19 | Figueroa, Trish | [n01724664] | @trix-04 | [n01724664@humber.ca] | [🐆] Completed | [Group 22] |
 | 20 | Friesen, Abby | [n01719981] | @raeoffrost | [n01719981@humber.ca] | [😼] Completed | [404 Found] |
 | 21 | Greville, Dustin | [n01368883] | @dustingreville | [n01368883@humber.ca] | [✅] Completed | [GroupName] |
-| 22 | Grover, Ramanpreet S. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 22 | Grover, Ramanpreet S. | [N01698437] | @RamanpreetGrover | [n01698437@humber.ca] |[☑️] Completed | [CodeCrew] |
 | 23 | Hailu, Beniam | [n01588356] | @HailuBen | [n01588356@humber.ca] | [🐱‍👤] Completed | [AHB Team / New Group 19] |
-| 24 | Hamm, Steven | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 24 | Hamm, Steven | [N00678493] | @RadHamm | [hmms0070@humber.ca] | [💻👌 ] Not Started | [Northpoint] |
 | 25 | Harrak, Nour | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 26 | Hernandez, Gabriel | [N01724716] | @PapisCode | [n01724716@humber.ca] | [x] Completed | [No Group Yet] |
 | 27 | Hossain, Mushfika | [N01700086] | @mushfikahossain | [n01700086@humber.ca] | [✅] Completed | [Not Yet Decided] |
-| 28 | Hunyinbo, Kayle K. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 28 | Hunyinbo, Kayle K. | [N01587541] | @KayKay-H | [N01587541@humber.ca] | [ ✅] Completed | [Group 12] |
 | 29 | Hunyinbo, Mauwanu Thankgod | [N01754713] | @ThankGodH | [n01754713@humber.ca] | [✅ ] Completed | [GroupName] |
 | 30 | Jama, Musa | [N01709704] | @Musa-jama | [N01709704@humber.ca] | [👋] Completed | [Star Mode Studios] |
 | 31 | Joseph, Harry | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
@@ -154,7 +154,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 38 | Ly, Tyler | [N01725055] | @Shorts71 | [n01725055@humber.ca] | [✅] Completed | [TSAS] |
 | 39 | Masur Jayatheertha, Abhishek | [N01697721] | @abhishake2323 | [n01697721@students.humber.ca] | [✅] Completed | [Star Mode Studios] |
 | 40 | Mchedlishvili, Ilia | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
-| 41 | Mpesha, Julila M. | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 41 | Mpesha, Julila M. | [N01751205] | @Moogz47 | [n01751205@humber.ca] | [✅] Completed | [New Group 7] |
 | 42 | Mukhtar, Lena | [N00639928] | @Lena-coder1 | [n00639928@humber.ca] | [✅ ] Completed | [The 404s] |
 | 43 | Nahas, Joseph | [N01111405] | @JosephNahas | [n01111405@humber.ca] | [✅] Completed | [The 404s] |
 | 44 | Newman, Michael R. | [N01586930] | @NewMicRob | [n01586930@humber.ca] | [🙃] Completed | [404 Found] |
@@ -166,7 +166,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 51 | Powell, Othniel M. | n01105862 | @Namedoga | n01105862@humber.ca | [✅] Completed | [TBD] |
 | 50 | Phillips, Ashton F. | [N01704940] | @AshtonPhillips2005 | [n01704940@humber.ca] | [✅] Completed | [GroupName] |
 | 51 | Powell, Othniel M. | n01105862 | @Namedoga | n01105862@humber.ca | [✅] Completed | [TBD] |
-| 52 | Pushparajah, Krishna | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 52 | Pushparajah, Krishna | n01747306 | @2017krishna | n01747306@humber.ca | ✅ Completed | Four-Loop |
 | 53 | Ragoonanan, Anupa R. | N01423202 | @aM3dia | n01423202@humbermail.ca | ✅ Lab 0 Complete | The 404s |
 | 54 | Rahim, Ahmed | [N01736422] | @Hamoudi97 | N01736422@humber.ca | [✅] Complete | Group 20 |
 | 55 | Sahota, Kuldip S. | [N01695125] | @Kuldip-Sahota | [n01695125@humber.ca] | [ ] ✅ Completed | [Group 14] |
@@ -180,8 +180,8 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 63 | Teibo, Lana | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 64 | Tekin, Berra | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 65 | Thavarasa, Sajan | [N01715615] | @SajanT26| [n01715615@humber.ca] | [👌] Completed | [TSAS] |
-| 66 | Tigse-Pena, Lynneth | [N01424240] | @LynnethTigsePena4240 | [n01424240@humber.ca] | [🦥] completed | [The 404s] |
-| 67 | Tolentino, Andre | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 66 | Tigse-Pena, Lynneth | [N01424240] | @LynnethTigsePena4240 | [n01424240@humber.ca] | [🦥] completed | [Four-Loop] |
+| 67 | Tolentino, Andre | [N01633111] | @AndreSurnmae | [n01633111@humber] | [✅] Completed | [Umbra] |
 | 68 | Tsegay, Abel | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 69 | Ustaoglu, Neslihan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 70 | Wang, Xia | [N01721277] | @danielxw88 | [n01721277@humber.ca] | [ ✅ Completed]| [Group 24] |
