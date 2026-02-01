@@ -116,7 +116,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 0 | Christin, Mugisha | [N0123456789] | @Mugisha5 | N0123456789 | [ 🔥 ] Complete | Semicolon |
 | 1 | Aamir, Zainab B. | [n01513753] | @NiqabiPrincess | [n01513753@humber.ca] |[🍄✅ ] Completed | [Northpoint] |
 | 2 | Abdirahman, Arwa | N01709742 | @Arwa-sectionD | N01709742@humber.ca | Completed | Northpoint |
-| 3 | Aharon, Ben | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 3 | Aharon, Ben | [N01713464] | @TheBooseIsBae | [n01713464@humber.ca] | [✅] Completed | [GroupName] |
 | 4 | Akinola, Oluwaseun | [N01717356] | @Sam-Ola-24| [n01717356@humber.ca] | [✅ ] Complete | [Umbra] |
 | 5 | Arif, Fahad | n01729165 | MuiLuigi | n01729165@humber.ca | Completed | Star Mode Studios |
 | 6 | Auckloo, Veevek | [N01314187] | @Aviish11 | [n01314187@humber.ca] | [🥶] Completed | [Group 24] |
@@ -191,6 +191,5 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 74 | Soor, Sahib S.| [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 75 | Leung, C | N01742752 | @gkn-mn | n01742752@humber.ca | [ ✅ ] Completed | [Group 7] |
 | 76 | Lana, Teibo | [N01739606] | @lanateibo | [n01739606@humber.ca] | [✅] Completed | [Group 20] |
-| 77 | Aharon, Ben | [N01713464] | @TheBooseIsBae | [n01713464@humber.ca] | [✅] Completed | [GroupName] |
 
 
